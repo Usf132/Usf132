@@ -36,10 +36,7 @@
 ```python
 youssef = {
 "rank" : "5th of 463 — Top 1% @ CS (AI Specialization)",
-"focus" : ["Backend Engineering", "Data Engineering", "AI Products"],
-"stack" : ["Python", "C++", "Flask", "Docker", "REST APIs", "TensorFlow"],
 "mindset" : "Ship fast. Own it end-to-end. Translate complexity into clarity.",
-"languages" : ["Arabic (Native)", "English (Fluent)", "German (Conversational)"],
 }
 ```
 
