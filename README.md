@@ -47,13 +47,6 @@ youssef = {
 
 ---
 
-## 🎓 Education
-
-**B.Sc. Computer Science — AI Specialization**
-Minia University · GPA 3.4 / 4.0
-🏅 Ranked **5th of 463 students (Top 1%)** — Formally honored for academic distinction in AI core subjects.
-
----
 
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50"> Experience & Leadership
 
