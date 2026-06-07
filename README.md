@@ -42,8 +42,7 @@ youssef = {
 }
 ```
 
-> *Multidisciplinary builder who moves with urgency — turning raw datasets into scalable products that solve real-world
-problems.*
+> *Multidisciplinary builder who moves with urgency, turning raw datasets into scalable products that solve real-world problems.*
 
 ---
 
