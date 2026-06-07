@@ -15,9 +15,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
     &nbsp;
-    <a href="mailto:usfasaadsaad@gmail.com"><img
-        src="https://img.shields.io/badge/Gmail-usfasaadsaad-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    &nbsp;
     <a href="https://www.linkedin.com/"><img
         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     &nbsp;
@@ -157,13 +154,6 @@ structured data models, and actionable insights.
         <img
           src="https://img.shields.io/badge/GitHub: Youssef Saad-181717?style=for-the-badge&logo=github&logoColor=white"
           alt="GitHub" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="mailto:usfasaadsaad@gmail.com" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Gmail: Youssef Saad-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-          alt="Gmail" style="margin-bottom: 5px;" />
       </a>
     </li>
     <li>
