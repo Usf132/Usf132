@@ -8,6 +8,10 @@
    ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║         ███████║██║  ██║██║  ██║██████╔╝
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝         ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 ```
+</div>
+
+<div align="center">
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
     &nbsp;
