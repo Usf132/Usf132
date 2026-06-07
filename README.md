@@ -18,8 +18,6 @@
     <a href="https://www.linkedin.com/"><img
         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     &nbsp;
-    <a href="https://github.com/"><img
-        src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/github/followers/Usf132?label=Followers&style=flat-square&logo=github&logoColor=white">
   </p>
 
