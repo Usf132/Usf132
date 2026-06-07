@@ -79,13 +79,8 @@ structured data models, and actionable insights.
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
+<h2 style="color: #A020F0; font-weight: bold;">AI & Engineering:</h2>
 
-<h2 style="color: #A020F0; font-weight: bold;">Programming Languages:</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js" alt="Languages" />
-</p>
-
-### AI & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -93,16 +88,17 @@ structured data models, and actionable insights.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Data & Cloud
+<h2 style="color: #A020F0; font-weight: bold;">Data & Cloud:</h2>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Product & Methodologies
+<h2 style="color: #A020F0; font-weight: bold;">Product & Methodologies:</h2>
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-6C3483?style=flat-square)
