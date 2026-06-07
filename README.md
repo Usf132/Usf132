@@ -35,7 +35,7 @@
 
 ```python
 youssef = {
-"rank" : "5th of 463 — Top 1% @ CS (AI Specialization)",
+"rank" : "5th of 465 — Top 1% @ CS (AI Specialization)",
 "mindset" : "Ship fast. Own it end-to-end. Translate complexity into clarity.",
 }
 ```
