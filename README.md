@@ -45,7 +45,6 @@ youssef = {
 
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50"> Experience & Leadership
 
-<img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300">
 
 | Period | Role | Organization |
 |---|---|---|
