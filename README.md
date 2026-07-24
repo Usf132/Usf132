@@ -33,8 +33,15 @@
 
 ```python
 youssef = {
-"rank" : "5th of 465 — Top 1% @ CS (AI Specialization)",
-"mindset" : "Ship fast. Own it end-to-end. Translate complexity into clarity.",
+"role": "AI & Software Engineer",
+"focus": [
+        "Machine Learning",
+        "Backend Engineering",
+        "Data Engineering",
+        "Product Development"
+  ],
+"rank": "5th of 465 — Top 1% @ CS (AI Specialization)",
+"mindset": "Ship fast. Own it end-to-end. Translate complexity into clarity.",
 }
 ```
 
@@ -94,6 +101,12 @@ structured data models, and actionable insights.
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Usf132&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300">
