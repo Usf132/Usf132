@@ -15,7 +15,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
     &nbsp;
-    <a href="https://www.linkedin.com/"><img
+    <a href="https://www.linkedin.com/in/youssef-saad-dev/"><img
         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     &nbsp;
     <img src="https://img.shields.io/github/followers/Usf132?label=Followers&style=flat-square&logo=github&logoColor=white">
