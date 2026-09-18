@@ -33,17 +33,43 @@
 
 ```python
 youssef = {
-    "role": "AI & Software Engineer",
+    "name": "Youssef Asaad Saad",
+    "role": "Machine Learning Engineer",
+
     "focus": [
         "Machine Learning",
-        "Data Engineering",
-        "Backend Engineering",
-        "Product Development"
+        "Data Science",
+        "Computer Vision",
+        "Data Engineering"
     ],
-    "rank": "Top 1% — 5th of 465 @ CS (AI)",
-    "currently": "Microsoft Data Engineering Trainee @ DEPI",
-    "mindset": "Ship fast. Own it end-to-end. Translate complexity into clarity.",
+
+    "rank": "Top 1% — 5th of 463 @ Minia University (CS-AI)",
+
+    "currently": "Data Engineering (Microsoft/Azure track) @ DEPI",
+
+    "recently_completed": "Computer Vision Intern @ NTI — 97.5% (120-hr CV & Deep Learning program)",
+
+    "highlights": [
+        "99.3% accuracy — Cat vs Dog classifier (Transfer Learning, MobileNetV2)",
+        "#1 Kaggle ranking — Exoplanet Classification competition",
+        "91% mAP@50 — two-stage YOLO11 fruit/vegetable detection pipeline",
+        "Co-built Signify — real-time ASL-to-speech system (YOLO + MediaPipe + Keras + ElevenLabs)"
+    ],
+
+    "stack": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow/Keras",
+        "SQL",
+        "PostgreSQL",
+        "YOLO",
+        "Azure"
+    ],
+
+    "mindset": "Build end-to-end. Ship real systems. Translate complexity into clarity.",
 }
+
+
 ```
 
 > *Multidisciplinary builder who moves with urgency, turning raw datasets into scalable products that solve real-world problems.*
