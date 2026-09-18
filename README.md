@@ -259,7 +259,7 @@ Completed a 90-hour summer training program focused on web development and datab
 |-------------|--------|
 | 🧠 Deep Learning Specialization | DeepLearning.AI |
 | 🧠 Machine Learning Specialization | Stanford University & DeepLearning.AI |
-| ☁️ Computer Vision & Deep Learning Training — 97.5% | National Telecommunication Institute (NTI) |
+| ☁️ Computer Vision & Deep Learning Training | National Telecommunication Institute (NTI) |
 | ☁️ Microsoft Data Engineering Trainee (DEPI) *(In Progress)* | MCIT × Microsoft × CLS Learning Solutions |
 | 🤖 AWS: Becoming a Machine Learning Engineer | Manara |
 | ☁️ AWS 2 & 3: Solutions Architect | Manara |
