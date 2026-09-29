@@ -16,7 +16,16 @@
     <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
     &nbsp;
     <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank" rel="noopener noreferrer"><img
-        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+   &nbsp;
+    <a href="https://www.kaggle.com/usfasaad" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"
+        alt="Kaggle"
+      />
+    </a>
     &nbsp;
     <img src="https://img.shields.io/github/followers/Usf132?label=Followers&style=flat-square&logo=github&logoColor=white">
   </p>
@@ -270,8 +279,6 @@ Completed a 90-hour summer training program focused on web development and datab
 | 🎨 Adobe Certified Professional – Photoshop | Adobe (Certiport) |
 
 ---
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
 <br>
 
