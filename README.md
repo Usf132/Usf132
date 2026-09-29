@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ```
 ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗    ███████╗ █████╗  █████╗ ██████╗
 ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝    ██╔════╝██╔══██╗██╔══██╗██╔══██╗
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
     &nbsp;
     <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank" rel="noopener noreferrer"><img
@@ -26,10 +26,6 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
-
-<img align="right"
-  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-  width="250px" />
 
 ```python
 youssef = {
@@ -61,9 +57,6 @@ youssef = {
         "Python", "scikit-learn", "TensorFlow/Keras", "PyTorch",
         "SQL", "PostgreSQL", "YOLO", "MediaPipe", "Azure", "AWS", "Streamlit"
     ],
-
-    "mindset": "Build end-to-end. Ship real systems. Translate complexity into clarity.",
-}
 ```
 
 > *Multidisciplinary builder who moves with urgency, turning raw datasets into scalable products that solve real-world problems.*
@@ -283,41 +276,80 @@ Completed a 90-hour summer training program focused on web development and datab
 <br>
 
 <div align="center">
+ 
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media</b>
 
+<br>
+
+<div align="center">
+ 
   **📬 Let's connect and build something impactful.**
+  
 </div>
 
-<br>
-<div align='left'>
-  <ul>
-    <li>
-      <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-Youssef_Saad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Usf132" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://img.shields.io/badge/GitHub-Youssef_Saad-181717?style=for-the-badge&logo=github&logoColor=white"
-          alt="GitHub" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="https://www.kaggle.com/usfasaad" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://img.shields.io/badge/Kaggle-Youssef_Saad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-          alt="Kaggle" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-  </ul>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank">
+          <img
+            src="https://unavatar.io/linkedin/user:youssef-saad-dev"
+            width="90"
+            height="90"
+            alt="Youssef Saad on LinkedIn"
+          />
+          <br />
+          <sub>
+            <img
+              src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+              alt="LinkedIn"
+            />
+          </sub>
+        </a>
+      </td>
+      <td width="30"></td>
+      <td align="center">
+        <a href="https://github.com/Usf132" target="_blank">
+          <img
+            src="https://github.com/Usf132.png"
+            width="90"
+            height="90"
+            alt="Youssef Saad on GitHub"
+          />
+          <br />
+          <sub>
+            <img
+              src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+              alt="GitHub"
+            />
+          </sub>
+        </a>
+      </td>
+      <td width="30"></td>
+      <td align="center">
+        <a href="https://www.kaggle.com/usfasaad" target="_blank">
+          <img
+            src="https://github.com/Usf132.png"
+            width="90"
+            height="90"
+            alt="Youssef Saad on Kaggle"
+          />
+          <br />
+          <sub>
+            <img
+              src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+              alt="Kaggle"
+            />
+          </sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
-<br>
 
-<br />
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500" align="center"/>
 
 </div>
 
@@ -333,14 +365,12 @@ Completed a 90-hour summer training program focused on web development and datab
 
 <h4 align="center">
   <a href="https://github.com/Usf132?tab=repositories&color=A020F0" title="Show Repositories">
-    <span style="color: #0feedb;">Show More</span>
+    <span style="color: #0feedb;">
+     <img src="https://img.shields.io/static/v1?label&message=Show+More&color=58a6ff&style=flat&logo"
+        alt="Show More" />
+     </span>
   </a>
-  <p align="right">
-    <a href="#top">
-      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo"
-        alt="back to top" />
-    </a>
-  </p>
+ 
 </h4>
 <div align="center">
   <img src="https://i.pinimg.com/originals/d5/b9/3b/d5b93bad7c0a1f974a1db0586f770f05.gif" width="300">
