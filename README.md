@@ -13,21 +13,29 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square" />
-    &nbsp;
-    <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank" rel="noopener noreferrer"><img
+    <a href="https://www.linkedin.com/in/youssef-saad-dev/" target="_blank" rel="noopener noreferrer">
+      <img
         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
         alt="LinkedIn"
       />
-   &nbsp;
+    </a>
+    &nbsp;
     <a href="https://www.kaggle.com/usfasaad" target="_blank" rel="noopener noreferrer">
       <img
         src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"
         alt="Kaggle"
       />
     </a>
+   &nbsp;
+   <img
+      src="https://img.shields.io/github/followers/Usf132?label=Followers&style=flat-square&logo=github&logoColor=white"
+      alt="GitHub Followers"
+    />
     &nbsp;
-    <img src="https://img.shields.io/github/followers/Usf132?label=Followers&style=flat-square&logo=github&logoColor=white">
+    <img
+      src="https://komarev.com/ghpvc/?username=youssef-asaad&label=Profile%20Views&color=e2b96f&style=flat-square"
+      alt="Profile Views"
+    />
   </p>
 
 </div>
@@ -48,27 +56,31 @@ youssef = {
         "Data Engineering"
     ],
 
-    "rank": "Top 1% - 5th of 463 @ Minia University (CS-AI)",
+    "rank": "5th of 463 @ Minia University (CS-AI)",
 
     "currently": "Microsoft Data Engineering Trainee @ DEPI (Round 5, Azure track)",
 
-    "recently_completed": "Computer Vision Intern @ NTI — 97.5% final score (120-hr CV & Deep Learning program)",
-
-    "highlights": [
-        "99.3% accuracy — MobileNetV2 Cat vs Dog classifier",
-        "#1 Kaggle ranking — Exoplanet Classification competition",
-        "91.0% mAP@50 — YOLO11 two-stage fruit/vegetable detection pipeline",
-        "97.42% ROC-AUC — Diabetes Risk Prediction app (Keras + Streamlit)",
-        "Co-built Signify — real-time ASL-to-speech system (YOLO + MediaPipe + Keras + ElevenLabs)"
-    ],
+    "recently_completed": "Computer Vision Intern @ NTI | 97.5% final score (120-hr CV & Deep Learning program)",
 
     "stack": [
-        "Python", "scikit-learn", "TensorFlow/Keras", "PyTorch",
-        "SQL", "PostgreSQL", "YOLO", "MediaPipe", "Azure", "AWS", "Streamlit"
-    ],
+    "Python", "SQL", "scikit-learn", "TensorFlow/Keras",
+    "PyTorch", "PostgreSQL", "YOLO", "MediaPipe",
+    "Azure", "AWS", "Streamlit"
+   ]
+}
 ```
 
-> *Multidisciplinary builder who moves with urgency, turning raw datasets into scalable products that solve real-world problems.*
+---
+
+## 🏆 Featured Projects
+
+| Project | Result | Tech |
+|---------|--------|------|
+| **Signify** | Real-time ASL-to-speech system · 4-person team | YOLO11, MediaPipe, Keras, ElevenLabs |
+| **Exoplanet Classification** | 🥇 #1 Kaggle Ranking | Python, scikit-learn |
+| **Fruit & Vegetable Detection** | 91.0% mAP@50 | YOLO11, Two-Stage Pipeline |
+| **Diabetes Risk Prediction** | 97.15% Accuracy · 97.42% ROC-AUC | Keras, Streamlit |
+| **Cat vs Dog Classifier** | 99.30% Test Accuracy | MobileNetV2, Transfer Learning |
 
 ---
 
@@ -151,19 +163,7 @@ Completed a 90-hour summer training program focused on web development and datab
 - Covered HTML & CSS fundamentals, database design, and SQL.
 - Learned PHP and MySQL for backend web development, with practical exposure to WordPress/CMS-based development.
 - Completed the program with a **100% final evaluation**, building the SQL and backend foundations that carried into later data engineering and analytics work.
-
-### Highlights
-
-- 🚀 **DEPI × Microsoft** — Selected for **Round 5** of the **Digital Egypt Pioneers Initiative (DEPI)**, a highly competitive government-sponsored program delivered by **MCIT**, **Microsoft**, and **CLS Learning Solutions**, specializing in **Data Engineering on Microsoft Azure**.
-
-- 🎯 **NTI Computer Vision** — Completed a 120-hour CV & Deep Learning program with a **97.5%** final score, co-building **Signify**, a real-time ASL-to-speech system.
-
-- 🧭 **Fuzetek** — Completed an end-to-end Software Engineering program covering the full SDLC, Agile/Scrum, PostgreSQL, Git, and Python while collaborating on production-oriented software projects.
-
-- 🔷 **McKinsey Forward** — Successfully completed McKinsey's global professional development program, strengthening structured problem-solving, strategic thinking, executive communication, and future-of-work skills.
-
-- 📊 **ITIDA Gigs** — Automated client reporting workflows with Python, reducing turnaround time from **~2 days to under 4 hours** while delivering analytics solutions across **10+ client engagements**.
-
+ 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
