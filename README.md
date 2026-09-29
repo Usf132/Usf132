@@ -279,10 +279,6 @@ Completed a 90-hour summer training program focused on web development and datab
 | 🎨 Adobe Certified Professional – Photoshop | Adobe (Certiport) |
 
 ---
-
-<br>
-
-<div align="center">
  
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media</b>
 
@@ -355,10 +351,11 @@ Completed a 90-hour summer training program focused on web development and datab
 </div>
 
 ---
-
+<div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500" align="center"/>
-
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
